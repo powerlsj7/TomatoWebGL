@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437243088040",
+    "project_id": "tomato10-78240476",
+    "storage_bucket": "tomato10-78240476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437243088040:android:2bd7573758c6d2962e469d",
+        "android_client_info": {
+          "package_name": "com.duchi.tomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437243088040-r8scnnrvq641turg8qbp4hv69p072slk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duchi.tomato",
+            "certificate_hash": "2ae786cba6b295a2da8ddda5e5849473e1d026c5"
+          }
+        },
+        {
+          "client_id": "437243088040-1jaejdr6shjj168ikdja04ifumptmqlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjDP2YMvjNAlx7m3N3WJeC3rMoNLc8hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437243088040-1jaejdr6shjj168ikdja04ifumptmqlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
